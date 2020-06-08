@@ -1,8 +1,8 @@
 # Vehicle Damage Detection Project
-As a part of ISB's AMPBA program, a capstone project was undertaken in which the business objective was use data science technoques to automate or semi-automate insurance claim process so that following objectives can be met.
+As a part of ISB's AMPBA program, a capstone project was undertaken. The business objective was to use modern data science techniques (deep learning in this case) to automate or semi-automate insurance claim process so that following objectives can be met.
 
-* Model helps surveyor or claim settlement team in assessing the claim
-* The insurance claim process time get reduced.
+* Model helps surveyor or claim settlement team in assessing the claim faster
+* The insurance claim process time get reduced
 * Model can help in making process more customer friendly
 
 # Methodology
