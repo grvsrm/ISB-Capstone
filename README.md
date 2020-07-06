@@ -14,4 +14,4 @@ Following stepwise approach was taken to create a model
 
 Above approach helped in successfully detecting the part and damage that can help in estimating the cost of repair. The project resulted in a succesful PoC which later on went to production to be a scalable solution in the market.
 All the models were created in Python using Keras and Tensorflow libraries. Entire project has been shared here in this repo for educational purpose.
-You can connect with me [here](https://grvsrm.github.io/)
+You can connect with me [here](https://gauravsharma.netlify.app/)
